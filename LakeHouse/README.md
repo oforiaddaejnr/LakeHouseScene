@@ -9,3 +9,6 @@ You can also move the camera around by pressing on the left mouse button and dra
 You can also move the camera vertically, by using the plus and minus keys on the numeric keypad
 If you press the space bar while moving around it recenters you at the starting position of the scene
 The camera pans in on certain objects if you press the keys: 1,2,3, or 4
+I also added a light source that moves around in the scene to simulate day and night
+
+In the Pictures folder you can see images of the objects I built
